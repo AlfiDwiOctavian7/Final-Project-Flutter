@@ -1,0 +1,491 @@
+-- Merging decision tree log ---
+application
+INJECTED from B:\new-flutter\project_flutter\absensi\android\app\src\main\AndroidManifest.xml:3:4-33:19
+MERGED from [:firebase_auth] B:\new-flutter\project_flutter\absensi\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
+MERGED from [:firebase_auth] B:\new-flutter\project_flutter\absensi\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
+MERGED from [:cloud_firestore] B:\new-flutter\project_flutter\absensi\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
+MERGED from [:cloud_firestore] B:\new-flutter\project_flutter\absensi\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
+MERGED from [:firebase_core] B:\new-flutter\project_flutter\absensi\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
+MERGED from [:firebase_core] B:\new-flutter\project_flutter\absensi\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:19
+MERGED from [:flutter_inappwebview] B:\new-flutter\project_flutter\absensi\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:15:5-48:19
+MERGED from [:flutter_inappwebview] B:\new-flutter\project_flutter\absensi\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:15:5-48:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\a7e981403293df7fd8a38a3f78f828c4\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\a7e981403293df7fd8a38a3f78f828c4\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2e4902a52c9dae67ece73fa26418a02c\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:26:5-71:19
+MERGED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2e4902a52c9dae67ece73fa26418a02c\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:26:5-71:19
+MERGED from [com.google.firebase:firebase-firestore:24.4.2] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\4a32129f1b9e0b447c8412ceb14ff8f2\transformed\jetified-firebase-firestore-24.4.2\AndroidManifest.xml:15:5-23:19
+MERGED from [com.google.firebase:firebase-firestore:24.4.2] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\4a32129f1b9e0b447c8412ceb14ff8f2\transformed\jetified-firebase-firestore-24.4.2\AndroidManifest.xml:15:5-23:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\9480565f67bb6e7ce3eb26927d8d757a\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\9480565f67bb6e7ce3eb26927d8d757a\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\8a0f60fae1cbc3a16555adb1e61568c2\transformed\jetified-firebase-appcheck-interop-16.1.1\AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\8a0f60fae1cbc3a16555adb1e61568c2\transformed\jetified-firebase-appcheck-interop-16.1.1\AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-common:20.3.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\a5ac4ffb2098f54edc93a1a34bc2e92d\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.firebase:firebase-common:20.3.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\a5ac4ffb2098f54edc93a1a34bc2e92d\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\53134ae000fda92b7a818640a924e169\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\53134ae000fda92b7a818640a924e169\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\1607bf9a14c10b873965fac746e069ea\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\1607bf9a14c10b873965fac746e069ea\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\384e45675311e3ef9fae7797971695b2\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\384e45675311e3ef9fae7797971695b2\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\697dd444dbe5dffa9e4d445567862060\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\697dd444dbe5dffa9e4d445567862060\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2142284e581a7820598f27748eb7c4a3\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2142284e581a7820598f27748eb7c4a3\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\b934e0382e93082d73806e2838df9076\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\b934e0382e93082d73806e2838df9076\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\71a626f7cc1ddadf5f21bad6fc1870ce\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\71a626f7cc1ddadf5f21bad6fc1870ce\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.core:core:1.8.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\e67c5135f91432781c0f8cff0d71c509\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\e67c5135f91432781c0f8cff0d71c509\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\f44d9f08b68242c1111244b3959255c5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\f44d9f08b68242c1111244b3959255c5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\e67c5135f91432781c0f8cff0d71c509\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+	android:name
+		INJECTED from B:\new-flutter\project_flutter\absensi\android\app\src\main\AndroidManifest.xml
+manifest
+ADDED from B:\new-flutter\project_flutter\absensi\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from B:\new-flutter\project_flutter\absensi\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from B:\new-flutter\project_flutter\absensi\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from B:\new-flutter\project_flutter\absensi\android\app\src\main\AndroidManifest.xml:1:1-34:12
+MERGED from B:\new-flutter\project_flutter\absensi\android\app\src\main\AndroidManifest.xml:1:1-34:12
+MERGED from [:shared_preferences_android] B:\new-flutter\project_flutter\absensi\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:firebase_auth] B:\new-flutter\project_flutter\absensi\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-17:12
+MERGED from [:cloud_firestore] B:\new-flutter\project_flutter\absensi\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-17:12
+MERGED from [:firebase_core] B:\new-flutter\project_flutter\absensi\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-17:12
+MERGED from [:flutter_inappwebview] B:\new-flutter\project_flutter\absensi\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-50:12
+MERGED from [:audioplayers_android] B:\new-flutter\project_flutter\absensi\build\audioplayers_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:path_provider_android] B:\new-flutter\project_flutter\absensi\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\90c72baed9aa28a7eec26c5444dce928\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\a7e981403293df7fd8a38a3f78f828c4\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\6708af3cc0c653c05e08700f215431e9\transformed\jetified-appcompat-resources-1.5.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.5.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\861c50534182ff8ec55923bde9479af5\transformed\appcompat-1.5.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2e4902a52c9dae67ece73fa26418a02c\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:17:1-73:12
+MERGED from [com.google.firebase:firebase-firestore:24.4.2] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\4a32129f1b9e0b447c8412ceb14ff8f2\transformed\jetified-firebase-firestore-24.4.2\AndroidManifest.xml:2:1-25:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\9480565f67bb6e7ce3eb26927d8d757a\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\8a0f60fae1cbc3a16555adb1e61568c2\transformed\jetified-firebase-appcheck-interop-16.1.1\AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-common:20.3.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\a5ac4ffb2098f54edc93a1a34bc2e92d\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\a051497d4a7a085420f23cae8f613496\transformed\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\53134ae000fda92b7a818640a924e169\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\eb79448bd51654b668084daa27c946b2\transformed\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\1607bf9a14c10b873965fac746e069ea\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\384e45675311e3ef9fae7797971695b2\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\697dd444dbe5dffa9e4d445567862060\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\85d82f01c2131289b2307d3c8dc03eb2\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\874fe13c92688381262bcff1ea18eebb\transformed\jetified-activity-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\51a16b45c6018482c0de6651333d4ca2\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\9cd317c2c95bc1254e531e8eb2f5cd20\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2bf5445ccef5d0a24075463c3bd98782\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.webkit:webkit:1.5.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\539bb52439934bb2a34505a469a04e0f\transformed\webkit-1.5.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\5df2b81baab3f814fcbd6ec4730f719d\transformed\browser-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\296db8b02eac9f82cdd1c6a689f62639\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\f6947f3de07e29b67fadaa4c72004d40\transformed\jetified-core-ktx-1.8.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\146fd26b1075cb7aa69a9f527852735e\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2142284e581a7820598f27748eb7c4a3\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\b934e0382e93082d73806e2838df9076\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\71a626f7cc1ddadf5f21bad6fc1870ce\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\79c763312c13bd6e6319fa3216d26c53\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\ec117fec067aecdd09b834cefa12a591\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\3aa66560a6e448d807941c553cd667b0\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\7e92676a1c5ab34f2b7cf1262bfd0b10\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\e108f6c7283f979f5292422e3cdd281a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\1c2e71891940ba52cd2f4ba1212221af\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.8.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\e67c5135f91432781c0f8cff0d71c509\transformed\core-1.8.0\AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\34fc8939ed19753b9a9a147791eaae04\transformed\jetified-firebase-components-17.1.0\AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\f44d9f08b68242c1111244b3959255c5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\43445da7d2aed7b1b38b7d84f3c2a5da\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\359f8efde2215eeece4981b9fee9ac6d\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\8a7b14d8af16b3efb9d80a28144492e7\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\648c6b972f373847a0f29d390516405a\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\8daefe4bea81160e279a4724d1caee33\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\351d5eaf51b24094e546cd65c7e7c6cc\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\9137f697ceeb71bf4b085956f9a0d96d\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\c34a9c35a24cddfd62add5677c59b280\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [io.grpc:grpc-android:1.50.2] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\1e5cafe530e05091525a1355550ae30d\transformed\jetified-grpc-android-1.50.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2a377d86c5412fe9b20953afa129670c\transformed\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\a2d5c39704991fe50aad3a7e23f82358\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from B:\new-flutter\project_flutter\absensi\android\app\src\debug\AndroidManifest.xml:1:1-8:12
+INJECTED from B:\new-flutter\project_flutter\absensi\android\app\src\debug\AndroidManifest.xml:1:1-8:12
+INJECTED from B:\new-flutter\project_flutter\absensi\android\app\src\debug\AndroidManifest.xml:1:1-8:12
+	package
+		ADDED from B:\new-flutter\project_flutter\absensi\android\app\src\main\AndroidManifest.xml:2:5-34
+		INJECTED from B:\new-flutter\project_flutter\absensi\android\app\src\main\AndroidManifest.xml
+		INJECTED from B:\new-flutter\project_flutter\absensi\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from B:\new-flutter\project_flutter\absensi\android\app\src\main\AndroidManifest.xml
+		ADDED from B:\new-flutter\project_flutter\absensi\android\app\src\main\AndroidManifest.xml:1:1-34:12
+		INJECTED from B:\new-flutter\project_flutter\absensi\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from B:\new-flutter\project_flutter\absensi\android\app\src\main\AndroidManifest.xml
+		ADDED from B:\new-flutter\project_flutter\absensi\android\app\src\main\AndroidManifest.xml:1:1-34:12
+		INJECTED from B:\new-flutter\project_flutter\absensi\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from B:\new-flutter\project_flutter\absensi\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from B:\new-flutter\project_flutter\absensi\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from B:\new-flutter\project_flutter\absensi\android\app\src\main\AndroidManifest.xml
+INJECTED from B:\new-flutter\project_flutter\absensi\android\app\src\main\AndroidManifest.xml
+MERGED from [:shared_preferences_android] B:\new-flutter\project_flutter\absensi\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:shared_preferences_android] B:\new-flutter\project_flutter\absensi\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_auth] B:\new-flutter\project_flutter\absensi\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_auth] B:\new-flutter\project_flutter\absensi\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:cloud_firestore] B:\new-flutter\project_flutter\absensi\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:cloud_firestore] B:\new-flutter\project_flutter\absensi\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_core] B:\new-flutter\project_flutter\absensi\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_core] B:\new-flutter\project_flutter\absensi\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_inappwebview] B:\new-flutter\project_flutter\absensi\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_inappwebview] B:\new-flutter\project_flutter\absensi\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:audioplayers_android] B:\new-flutter\project_flutter\absensi\build\audioplayers_android\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:audioplayers_android] B:\new-flutter\project_flutter\absensi\build\audioplayers_android\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:path_provider_android] B:\new-flutter\project_flutter\absensi\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] B:\new-flutter\project_flutter\absensi\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\90c72baed9aa28a7eec26c5444dce928\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\90c72baed9aa28a7eec26c5444dce928\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\a7e981403293df7fd8a38a3f78f828c4\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\a7e981403293df7fd8a38a3f78f828c4\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\6708af3cc0c653c05e08700f215431e9\transformed\jetified-appcompat-resources-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\6708af3cc0c653c05e08700f215431e9\transformed\jetified-appcompat-resources-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\861c50534182ff8ec55923bde9479af5\transformed\appcompat-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\861c50534182ff8ec55923bde9479af5\transformed\appcompat-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2e4902a52c9dae67ece73fa26418a02c\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2e4902a52c9dae67ece73fa26418a02c\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-firestore:24.4.2] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\4a32129f1b9e0b447c8412ceb14ff8f2\transformed\jetified-firebase-firestore-24.4.2\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-firestore:24.4.2] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\4a32129f1b9e0b447c8412ceb14ff8f2\transformed\jetified-firebase-firestore-24.4.2\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\9480565f67bb6e7ce3eb26927d8d757a\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\9480565f67bb6e7ce3eb26927d8d757a\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\8a0f60fae1cbc3a16555adb1e61568c2\transformed\jetified-firebase-appcheck-interop-16.1.1\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\8a0f60fae1cbc3a16555adb1e61568c2\transformed\jetified-firebase-appcheck-interop-16.1.1\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-common:20.3.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\a5ac4ffb2098f54edc93a1a34bc2e92d\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-common:20.3.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\a5ac4ffb2098f54edc93a1a34bc2e92d\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\a051497d4a7a085420f23cae8f613496\transformed\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\a051497d4a7a085420f23cae8f613496\transformed\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\53134ae000fda92b7a818640a924e169\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\53134ae000fda92b7a818640a924e169\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\eb79448bd51654b668084daa27c946b2\transformed\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\eb79448bd51654b668084daa27c946b2\transformed\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\1607bf9a14c10b873965fac746e069ea\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\1607bf9a14c10b873965fac746e069ea\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\384e45675311e3ef9fae7797971695b2\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\384e45675311e3ef9fae7797971695b2\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\697dd444dbe5dffa9e4d445567862060\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\697dd444dbe5dffa9e4d445567862060\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\85d82f01c2131289b2307d3c8dc03eb2\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\85d82f01c2131289b2307d3c8dc03eb2\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\874fe13c92688381262bcff1ea18eebb\transformed\jetified-activity-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\874fe13c92688381262bcff1ea18eebb\transformed\jetified-activity-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\51a16b45c6018482c0de6651333d4ca2\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\51a16b45c6018482c0de6651333d4ca2\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\9cd317c2c95bc1254e531e8eb2f5cd20\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\9cd317c2c95bc1254e531e8eb2f5cd20\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2bf5445ccef5d0a24075463c3bd98782\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2bf5445ccef5d0a24075463c3bd98782\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.5.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\539bb52439934bb2a34505a469a04e0f\transformed\webkit-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.5.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\539bb52439934bb2a34505a469a04e0f\transformed\webkit-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\5df2b81baab3f814fcbd6ec4730f719d\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\5df2b81baab3f814fcbd6ec4730f719d\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\296db8b02eac9f82cdd1c6a689f62639\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\296db8b02eac9f82cdd1c6a689f62639\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\f6947f3de07e29b67fadaa4c72004d40\transformed\jetified-core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\f6947f3de07e29b67fadaa4c72004d40\transformed\jetified-core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\146fd26b1075cb7aa69a9f527852735e\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\146fd26b1075cb7aa69a9f527852735e\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2142284e581a7820598f27748eb7c4a3\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2142284e581a7820598f27748eb7c4a3\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\b934e0382e93082d73806e2838df9076\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\b934e0382e93082d73806e2838df9076\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\71a626f7cc1ddadf5f21bad6fc1870ce\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\71a626f7cc1ddadf5f21bad6fc1870ce\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\79c763312c13bd6e6319fa3216d26c53\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\79c763312c13bd6e6319fa3216d26c53\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\ec117fec067aecdd09b834cefa12a591\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\ec117fec067aecdd09b834cefa12a591\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\3aa66560a6e448d807941c553cd667b0\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\3aa66560a6e448d807941c553cd667b0\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\7e92676a1c5ab34f2b7cf1262bfd0b10\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\7e92676a1c5ab34f2b7cf1262bfd0b10\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\e108f6c7283f979f5292422e3cdd281a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\e108f6c7283f979f5292422e3cdd281a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\1c2e71891940ba52cd2f4ba1212221af\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\1c2e71891940ba52cd2f4ba1212221af\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.8.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\e67c5135f91432781c0f8cff0d71c509\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\e67c5135f91432781c0f8cff0d71c509\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\34fc8939ed19753b9a9a147791eaae04\transformed\jetified-firebase-components-17.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\34fc8939ed19753b9a9a147791eaae04\transformed\jetified-firebase-components-17.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\f44d9f08b68242c1111244b3959255c5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\f44d9f08b68242c1111244b3959255c5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\43445da7d2aed7b1b38b7d84f3c2a5da\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\43445da7d2aed7b1b38b7d84f3c2a5da\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\359f8efde2215eeece4981b9fee9ac6d\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\359f8efde2215eeece4981b9fee9ac6d\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\8a7b14d8af16b3efb9d80a28144492e7\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\8a7b14d8af16b3efb9d80a28144492e7\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\648c6b972f373847a0f29d390516405a\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\648c6b972f373847a0f29d390516405a\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\8daefe4bea81160e279a4724d1caee33\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\8daefe4bea81160e279a4724d1caee33\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\351d5eaf51b24094e546cd65c7e7c6cc\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\351d5eaf51b24094e546cd65c7e7c6cc\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\9137f697ceeb71bf4b085956f9a0d96d\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\9137f697ceeb71bf4b085956f9a0d96d\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\c34a9c35a24cddfd62add5677c59b280\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\c34a9c35a24cddfd62add5677c59b280\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [io.grpc:grpc-android:1.50.2] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\1e5cafe530e05091525a1355550ae30d\transformed\jetified-grpc-android-1.50.2\AndroidManifest.xml:5:5-7:41
+MERGED from [io.grpc:grpc-android:1.50.2] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\1e5cafe530e05091525a1355550ae30d\transformed\jetified-grpc-android-1.50.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2a377d86c5412fe9b20953afa129670c\transformed\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2a377d86c5412fe9b20953afa129670c\transformed\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\a2d5c39704991fe50aad3a7e23f82358\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\a2d5c39704991fe50aad3a7e23f82358\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from B:\new-flutter\project_flutter\absensi\android\app\src\debug\AndroidManifest.xml
+INJECTED from B:\new-flutter\project_flutter\absensi\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from B:\new-flutter\project_flutter\absensi\android\app\src\main\AndroidManifest.xml
+		INJECTED from B:\new-flutter\project_flutter\absensi\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from B:\new-flutter\project_flutter\absensi\android\app\src\main\AndroidManifest.xml
+		INJECTED from B:\new-flutter\project_flutter\absensi\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from B:\new-flutter\project_flutter\absensi\android\app\src\debug\AndroidManifest.xml:7:5-66
+MERGED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2e4902a52c9dae67ece73fa26418a02c\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2e4902a52c9dae67ece73fa26418a02c\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.4.2] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\4a32129f1b9e0b447c8412ceb14ff8f2\transformed\jetified-firebase-firestore-24.4.2\AndroidManifest.xml:13:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.4.2] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\4a32129f1b9e0b447c8412ceb14ff8f2\transformed\jetified-firebase-firestore-24.4.2\AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from B:\new-flutter\project_flutter\absensi\android\app\src\debug\AndroidManifest.xml:7:22-64
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:firebase_auth] B:\new-flutter\project_flutter\absensi\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
+MERGED from [:cloud_firestore] B:\new-flutter\project_flutter\absensi\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
+MERGED from [:cloud_firestore] B:\new-flutter\project_flutter\absensi\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
+MERGED from [:firebase_core] B:\new-flutter\project_flutter\absensi\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
+MERGED from [:firebase_core] B:\new-flutter\project_flutter\absensi\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
+MERGED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2e4902a52c9dae67ece73fa26418a02c\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:64:9-70:19
+MERGED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2e4902a52c9dae67ece73fa26418a02c\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:64:9-70:19
+MERGED from [com.google.firebase:firebase-firestore:24.4.2] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\4a32129f1b9e0b447c8412ceb14ff8f2\transformed\jetified-firebase-firestore-24.4.2\AndroidManifest.xml:16:9-22:19
+MERGED from [com.google.firebase:firebase-firestore:24.4.2] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\4a32129f1b9e0b447c8412ceb14ff8f2\transformed\jetified-firebase-firestore-24.4.2\AndroidManifest.xml:16:9-22:19
+MERGED from [com.google.firebase:firebase-common:20.3.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\a5ac4ffb2098f54edc93a1a34bc2e92d\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:20.3.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\a5ac4ffb2098f54edc93a1a34bc2e92d\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2e4902a52c9dae67ece73fa26418a02c\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:66:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.3.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\a5ac4ffb2098f54edc93a1a34bc2e92d\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.3.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\a5ac4ffb2098f54edc93a1a34bc2e92d\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [:firebase_auth] B:\new-flutter\project_flutter\absensi\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:10:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar
+ADDED from [:firebase_auth] B:\new-flutter\project_flutter\absensi\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [:firebase_auth] B:\new-flutter\project_flutter\absensi\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [:firebase_auth] B:\new-flutter\project_flutter\absensi\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar
+ADDED from [:cloud_firestore] B:\new-flutter\project_flutter\absensi\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [:cloud_firestore] B:\new-flutter\project_flutter\absensi\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [:cloud_firestore] B:\new-flutter\project_flutter\absensi\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-134
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
+ADDED from [:firebase_core] B:\new-flutter\project_flutter\absensi\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [:firebase_core] B:\new-flutter\project_flutter\absensi\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [:firebase_core] B:\new-flutter\project_flutter\absensi\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
+queries
+ADDED from [:flutter_inappwebview] B:\new-flutter\project_flutter\absensi\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-13:15
+intent#action:name:android.support.customtabs.action.CustomTabsService
+ADDED from [:flutter_inappwebview] B:\new-flutter\project_flutter\absensi\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-12:18
+action#android.support.customtabs.action.CustomTabsService
+ADDED from [:flutter_inappwebview] B:\new-flutter\project_flutter\absensi\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-90
+	android:name
+		ADDED from [:flutter_inappwebview] B:\new-flutter\project_flutter\absensi\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:11:21-87
+activity#com.pichillilorenzo.flutter_inappwebview.in_app_browser.InAppBrowserActivity
+ADDED from [:flutter_inappwebview] B:\new-flutter\project_flutter\absensi\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:16:9-20:47
+	android:exported
+		ADDED from [:flutter_inappwebview] B:\new-flutter\project_flutter\absensi\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-37
+	android:configChanges
+		ADDED from [:flutter_inappwebview] B:\new-flutter\project_flutter\absensi\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-137
+	android:theme
+		ADDED from [:flutter_inappwebview] B:\new-flutter\project_flutter\absensi\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-44
+	android:name
+		ADDED from [:flutter_inappwebview] B:\new-flutter\project_flutter\absensi\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-104
+activity#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ChromeCustomTabsActivity
+ADDED from [:flutter_inappwebview] B:\new-flutter\project_flutter\absensi\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:21:9-24:55
+	android:exported
+		ADDED from [:flutter_inappwebview] B:\new-flutter\project_flutter\absensi\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-37
+	android:theme
+		ADDED from [:flutter_inappwebview] B:\new-flutter\project_flutter\absensi\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:24:13-52
+	android:name
+		ADDED from [:flutter_inappwebview] B:\new-flutter\project_flutter\absensi\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:22:13-112
+activity#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.TrustedWebActivity
+ADDED from [:flutter_inappwebview] B:\new-flutter\project_flutter\absensi\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:25:9-28:55
+	android:exported
+		ADDED from [:flutter_inappwebview] B:\new-flutter\project_flutter\absensi\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-37
+	android:theme
+		ADDED from [:flutter_inappwebview] B:\new-flutter\project_flutter\absensi\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:28:13-52
+	android:name
+		ADDED from [:flutter_inappwebview] B:\new-flutter\project_flutter\absensi\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:26:13-106
+activity#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ChromeCustomTabsActivitySingleInstance
+ADDED from [:flutter_inappwebview] B:\new-flutter\project_flutter\absensi\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:29:9-33:55
+	android:launchMode
+		ADDED from [:flutter_inappwebview] B:\new-flutter\project_flutter\absensi\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:32:13-48
+	android:exported
+		ADDED from [:flutter_inappwebview] B:\new-flutter\project_flutter\absensi\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:31:13-37
+	android:theme
+		ADDED from [:flutter_inappwebview] B:\new-flutter\project_flutter\absensi\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:33:13-52
+	android:name
+		ADDED from [:flutter_inappwebview] B:\new-flutter\project_flutter\absensi\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:30:13-126
+activity#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.TrustedWebActivitySingleInstance
+ADDED from [:flutter_inappwebview] B:\new-flutter\project_flutter\absensi\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:34:9-38:55
+	android:launchMode
+		ADDED from [:flutter_inappwebview] B:\new-flutter\project_flutter\absensi\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:37:13-48
+	android:exported
+		ADDED from [:flutter_inappwebview] B:\new-flutter\project_flutter\absensi\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:36:13-37
+	android:theme
+		ADDED from [:flutter_inappwebview] B:\new-flutter\project_flutter\absensi\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:38:13-52
+	android:name
+		ADDED from [:flutter_inappwebview] B:\new-flutter\project_flutter\absensi\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:35:13-120
+receiver#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ActionBroadcastReceiver
+ADDED from [:flutter_inappwebview] B:\new-flutter\project_flutter\absensi\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:40:9-43:40
+	android:enabled
+		ADDED from [:flutter_inappwebview] B:\new-flutter\project_flutter\absensi\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:42:13-35
+	android:exported
+		ADDED from [:flutter_inappwebview] B:\new-flutter\project_flutter\absensi\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:43:13-37
+	android:name
+		ADDED from [:flutter_inappwebview] B:\new-flutter\project_flutter\absensi\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:41:13-111
+meta-data#io.flutter.embedded_views_preview
+ADDED from [:flutter_inappwebview] B:\new-flutter\project_flutter\absensi\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:45:9-47:36
+	android:value
+		ADDED from [:flutter_inappwebview] B:\new-flutter\project_flutter\absensi\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:47:13-33
+	android:name
+		ADDED from [:flutter_inappwebview] B:\new-flutter\project_flutter\absensi\build\flutter_inappwebview\intermediates\merged_manifest\debug\AndroidManifest.xml:46:13-61
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\a7e981403293df7fd8a38a3f78f828c4\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\a7e981403293df7fd8a38a3f78f828c4\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\a7e981403293df7fd8a38a3f78f828c4\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\a7e981403293df7fd8a38a3f78f828c4\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\a7e981403293df7fd8a38a3f78f828c4\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\a7e981403293df7fd8a38a3f78f828c4\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2e4902a52c9dae67ece73fa26418a02c\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.4.2] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\4a32129f1b9e0b447c8412ceb14ff8f2\transformed\jetified-firebase-firestore-24.4.2\AndroidManifest.xml:12:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.4.2] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\4a32129f1b9e0b447c8412ceb14ff8f2\transformed\jetified-firebase-firestore-24.4.2\AndroidManifest.xml:12:5-79
+MERGED from [io.grpc:grpc-android:1.50.2] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\1e5cafe530e05091525a1355550ae30d\transformed\jetified-grpc-android-1.50.2\AndroidManifest.xml:9:5-79
+MERGED from [io.grpc:grpc-android:1.50.2] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\1e5cafe530e05091525a1355550ae30d\transformed\jetified-grpc-android-1.50.2\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2e4902a52c9dae67ece73fa26418a02c\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:24:22-76
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2e4902a52c9dae67ece73fa26418a02c\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:27:9-44:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2e4902a52c9dae67ece73fa26418a02c\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2e4902a52c9dae67ece73fa26418a02c\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2e4902a52c9dae67ece73fa26418a02c\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2e4902a52c9dae67ece73fa26418a02c\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2e4902a52c9dae67ece73fa26418a02c\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:28:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2e4902a52c9dae67ece73fa26418a02c\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:33:13-43:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2e4902a52c9dae67ece73fa26418a02c\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2e4902a52c9dae67ece73fa26418a02c\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:34:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2e4902a52c9dae67ece73fa26418a02c\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2e4902a52c9dae67ece73fa26418a02c\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:36:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2e4902a52c9dae67ece73fa26418a02c\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2e4902a52c9dae67ece73fa26418a02c\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:37:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2e4902a52c9dae67ece73fa26418a02c\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:39:17-42:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2e4902a52c9dae67ece73fa26418a02c\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:41:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2e4902a52c9dae67ece73fa26418a02c\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:40:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2e4902a52c9dae67ece73fa26418a02c\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:42:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2e4902a52c9dae67ece73fa26418a02c\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:45:9-62:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2e4902a52c9dae67ece73fa26418a02c\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:47:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2e4902a52c9dae67ece73fa26418a02c\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:49:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2e4902a52c9dae67ece73fa26418a02c\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2e4902a52c9dae67ece73fa26418a02c\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2e4902a52c9dae67ece73fa26418a02c\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:46:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2e4902a52c9dae67ece73fa26418a02c\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:51:13-61:29
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2e4902a52c9dae67ece73fa26418a02c\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:67:13-69:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2e4902a52c9dae67ece73fa26418a02c\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:69:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2e4902a52c9dae67ece73fa26418a02c\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:68:17-109
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:24.4.2] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\4a32129f1b9e0b447c8412ceb14ff8f2\transformed\jetified-firebase-firestore-24.4.2\AndroidManifest.xml:19:13-21:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:24.4.2] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\4a32129f1b9e0b447c8412ceb14ff8f2\transformed\jetified-firebase-firestore-24.4.2\AndroidManifest.xml:21:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:24.4.2] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\4a32129f1b9e0b447c8412ceb14ff8f2\transformed\jetified-firebase-firestore-24.4.2\AndroidManifest.xml:20:17-111
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.3.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\a5ac4ffb2098f54edc93a1a34bc2e92d\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:25:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.3.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\a5ac4ffb2098f54edc93a1a34bc2e92d\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:27:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.3.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\a5ac4ffb2098f54edc93a1a34bc2e92d\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:29:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.3.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\a5ac4ffb2098f54edc93a1a34bc2e92d\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:28:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.3.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\a5ac4ffb2098f54edc93a1a34bc2e92d\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.3.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\a5ac4ffb2098f54edc93a1a34bc2e92d\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:26:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\1607bf9a14c10b873965fac746e069ea\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\1607bf9a14c10b873965fac746e069ea\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\1607bf9a14c10b873965fac746e069ea\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\1607bf9a14c10b873965fac746e069ea\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\697dd444dbe5dffa9e4d445567862060\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\697dd444dbe5dffa9e4d445567862060\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\697dd444dbe5dffa9e4d445567862060\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2142284e581a7820598f27748eb7c4a3\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\b934e0382e93082d73806e2838df9076\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\b934e0382e93082d73806e2838df9076\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\71a626f7cc1ddadf5f21bad6fc1870ce\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\71a626f7cc1ddadf5f21bad6fc1870ce\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2142284e581a7820598f27748eb7c4a3\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2142284e581a7820598f27748eb7c4a3\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2142284e581a7820598f27748eb7c4a3\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2142284e581a7820598f27748eb7c4a3\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2142284e581a7820598f27748eb7c4a3\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2142284e581a7820598f27748eb7c4a3\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\2142284e581a7820598f27748eb7c4a3\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\b934e0382e93082d73806e2838df9076\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\b934e0382e93082d73806e2838df9076\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ALFI DWI OCTAVIAN\.gradle\caches\transforms-3\b934e0382e93082d73806e2838df9076\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78

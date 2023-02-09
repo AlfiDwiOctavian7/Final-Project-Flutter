@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "860523175980",
+    "project_id": "flutter-login-1a429",
+    "storage_bucket": "flutter-login-1a429.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860523175980:android:449937a72f5749c6bff189",
+        "android_client_info": {
+          "package_name": "com.example.absensi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860523175980-7k8c5hq0o6pknq03muroi6q5ccbt5m3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWfbhmb15J0ta0Y-xfYvktTwf2-dNqkEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860523175980-7k8c5hq0o6pknq03muroi6q5ccbt5m3s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "860523175980-kno5ikqekh0ivfpe1140q9r8pdnkc6d5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.absensi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
